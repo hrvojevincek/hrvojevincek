@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @hrvojevincek
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... front end web technologies
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... DM
+```yaml
+Name: Hrvoje Vincek
+Located: Barcelona, Spain
+current_job: Bootcamp Student @ Arol.Dev
+
+currently_learning: [React, Typescript, Next]
+2023 goals: [Build 5+ full stack projects to get hired]
+hobbies: ["Playing music", "Art galleries", "Road tripping" ]
+
+```
 
 <!---
 hrvojevincek/hrvojevincek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
