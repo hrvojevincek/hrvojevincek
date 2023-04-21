@@ -1,10 +1,12 @@
 ```yaml
-Name: Hrvoje Vincek
-Located: Barcelona, Spain
+name: Hrvoje Vincek
+located: Barcelona, Spain
 current_job: Bootcamp Student @ Arol.Dev
 
 currently_learning: [React, Typescript, Next]
+
 2023 goals: [Build 5+ full stack projects to get hired]
+
 hobbies: ["Playing music", "Art galleries", "Road tripping" ]
 
 ```
