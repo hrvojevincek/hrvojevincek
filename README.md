@@ -1,7 +1,7 @@
 ```yaml
 name: Hrvoje Vincek
 located: Barcelona, Spain
-current_job: Bootcamp Student @ Arol.Dev
+current_job: FullStack Engineer Student @ Arol.Dev
 
 currently_learning: [React, Typescript, Next]
 
