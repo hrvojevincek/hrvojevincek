@@ -3,11 +3,10 @@ name: Hrvoje Vincek
 located: Barcelona, Spain
 current_job: FullStack Engineer Student @ Arol.Dev
 
-currently_learning: [React, Typescript, Next]
+currently_learning: [React, Typescript, Next, Tailwind]
 
-2023 goals: [Build 5+ full stack projects to get hired]
 
-hobbies: ["Playing music", "Art galleries", "Road tripping" ]
+hobbies: ["Art galleries", "Road tripping", "Sci-fi topics" ]
 
 ```
 
