@@ -1,9 +1,9 @@
 ```yaml
 name: Hrvoje Vincek
 located: Barcelona, Spain
-current_job: FullStack Engineer Student @ Arol.Dev
+recent: Software Engineer Mentorship Program Completed @ Arol.dev
 
-currently_learning: [React, Typescript, Next, Tailwind]
+skills: [React, Typescript, Next, TailwindCSS, Prisma, Postgrsql, Express]
 
 
 hobbies: ["Art galleries", "Road tripping", "Sci-fi topics" ]
