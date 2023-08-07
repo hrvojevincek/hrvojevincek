@@ -6,7 +6,7 @@ recent: Software Engineer Mentorship Program Completed @ Arol.dev
 skills: [React, Typescript, Next, TailwindCSS, Prisma, Postgrsql, Express]
 
 
-hobbies: ["Art galleries", "Road tripping", "Sci-fi topics" ]
+hobbies: ["Art galleries", "Road tripping", "Sci-fi, "AI" ]
 
 ```
 
