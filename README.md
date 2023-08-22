@@ -1,9 +1,9 @@
 ```yaml
 name: Hrvoje Vincek
 located: Barcelona, Spain
-recent: Software Engineer Mentorship Program Completed @ Arol.dev
+recent: Completed Software Engineer Mentorship Program @ Arol.dev
 
-skills: [React, Typescript, Next, TailwindCSS, Prisma, Postgrsql, Express]
+skills: [NextJS, React, Typescript, TailwindCSS, Prisma, Postgrsql, MongoDB, Express]
 
 
 hobbies: ["Art galleries", "Road tripping", "Sci-fi, "AI" ]
