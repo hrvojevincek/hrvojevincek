@@ -3,7 +3,9 @@ name: Hrvoje Vincek
 located: Barcelona, Spain
 recent: Completed Software Engineer Mentorship Program @ Arol.dev
 
-skills: [NextJS, React, Typescript, TailwindCSS, Prisma, Postgrsql, MongoDB, Express]
+Looking for work and willing to relocate 
+
+skills: [NextJS, React, Typescript, TailwindCSS, Prisma, Postgrsql, MongoDB, Express, GraphQL, MongoDB]
 
 
 hobbies: ["Art galleries", "Road tripping", "Sci-fi, "AI" ]
