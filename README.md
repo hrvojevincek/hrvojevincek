@@ -1,7 +1,7 @@
 ```yaml
 name: Hrvoje Vincek
 located: Barcelona, Spain
-Full Stack Developer @ WhereYouAt.co.uk
+current position: Full Stack Developer @ WhereYouAt.co.uk
 
 
 
