@@ -3,7 +3,9 @@ name: Hrvoje Vincek
 located: UK
 current position: Full Stack Developer @ WhereYouAt.co.uk
 
-skills: [NextJS, React, Typescript, TailwindCSS, Prisma, Postgrsql, MongoDB, Express, GraphQL, MongoDB. NestJS]
+FrontEnd skills: [NextJS, React, Typescript, TailwindCSS]
++
+BackEnd skills: [Prisma, Postgrsql, MongoDB, Express, GraphQL, MongoDB. NestJS]
 
 
 hobbies: ["Art galleries", "Road tripping", "Sci-fi, "AI" ]
