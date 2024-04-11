@@ -1,10 +1,10 @@
 ```yaml
-name: Hrvoje Vincek
-located: UK
+call me: Hrvoe
+@
 current position: Full Stack Developer @ WhereYouAt.co.uk
-
+w/
 FrontEnd skills: [NextJS, React, Typescript, TailwindCSS]
-+
+&&
 BackEnd skills: [Prisma, Postgrsql, MongoDB, Express, GraphQL, MongoDB. NestJS]
 
 
