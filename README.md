@@ -1,18 +1,17 @@
-```yaml
-call me: Hrvoe
-@
-current position: Full Stack Developer @ WhereYouAt.co.uk
-w/
-FrontEnd skills: [NextJS, React, Typescript, TailwindCSS]
-&&
-BackEnd skills: [Prisma, Postgrsql, MongoDB, Express, GraphQL, MongoDB. NestJS]
+# Hrvoe - Full Stack Developer
 
+**About Me:**
 
-hobbies: ["Art galleries", "Road tripping", "Sci-fi, "AI" ]
+* **Name:** Hrvoe
+* **Current Role:** Full Stack Developer @ WhereYouAt.co.uk
 
-```
+**Skills:**
 
-<!---
-hrvojevincek/hrvojevincek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+* **Backend:** Prisma, PostgreSQL, MongoDB, Express, GraphQL, NestJS
+
+**Passions:**
+
+* Exploring art galleries
+* Road tripping adventures
+* Sci-fi and AI (intriguing intersection!)
