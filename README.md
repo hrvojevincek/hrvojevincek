@@ -14,4 +14,4 @@
 
 * Exploring art galleries
 * Road tripping adventures
-* Sci-fi and AI (intriguing intersection!)
+* Sci-fi and AI
