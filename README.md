@@ -9,9 +9,3 @@
 
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN
 * **Backend:** Express, NestJS, Prisma, TypeORM, PostgreSQL, MongoDB, GraphQL
-
-**Passions:**
-
-* Exploring art galleries
-* Road tripping adventures
-* Sci-fi
