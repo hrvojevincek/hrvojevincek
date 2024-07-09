@@ -1,4 +1,4 @@
-# Hrvoe - Full Stack Developer
+# Full Stack Developer
 
 **About Me:**
 
