@@ -7,8 +7,8 @@
 
 **Skills:**
 
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-* **Backend:** Prisma, PostgreSQL, MongoDB, Express, GraphQL, NestJS
+* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN
+* **Backend:** Express, NestJS, Prisma, TypeORM, PostgreSQL, MongoDB, GraphQL
 
 **Passions:**
 
