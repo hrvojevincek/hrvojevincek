@@ -9,3 +9,6 @@
 
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN
 * **Backend:** Express, NestJS, Prisma, TypeORM, PostgreSQL, MongoDB, GraphQL
+
+
+RESUME: https://hrvojevincek.github.io/resume/
